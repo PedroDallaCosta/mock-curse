@@ -1,8 +1,8 @@
 # QuantumLeap
 
 **QuantumLeap** is a simple project built to study how **Redux** works, along with practicing the use of modern tools like **Vite** and **React**.
+<img width="958" alt="Screenshot_1" src="https://github.com/user-attachments/assets/459d6027-32bf-4934-bb5e-c6cd6e97633f" />
 
-![QuantumLeap Screenshot](./screenshot.png)
 
 ## 🧠 Purpose
 

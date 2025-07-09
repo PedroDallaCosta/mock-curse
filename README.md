@@ -16,8 +16,6 @@ The main goal of this project is to understand fundamental concepts of state man
 - [Vite](https://vitejs.dev/)
 - [Redux](https://redux.js.org/)
 - [React Redux](https://react-redux.js.org/)
-- [React Router](https://reactrouter.com/) (if used)
-- [TypeScript](https://www.typescriptlang.org/) (optional)
 
 ---
 

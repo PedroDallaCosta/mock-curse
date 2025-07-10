@@ -6,16 +6,32 @@ const initialState = {
       id: 1,
       title: "Entendendo algoritmos",
       lessons: [
-        { id: 1, title: "Primeira aula de algoritmos" },
-        { id: 2, title: "Segunda aula de algoritmos" },
+        {
+          id: 1,
+          title: "Primeira aula de algoritmos",
+          video: "https://www.youtube.com/watch?v=0IAPZzGSbME",
+        },
+        {
+          id: 2,
+          title: "Segunda aula de algoritmos",
+          video: "https://www.youtube.com/watch?v=-JTq1BFBwmo"
+        },
       ]
     },
     {
       id: 2,
       title: "Entendendo estrutura de dados",
       lessons: [
-        { id: 1, title: "Primeira aula de estrutura de dados" },
-        { id: 2, title: "Segunda aula de estrutura de dados" },
+        {
+          id: 1,
+          title: "Primeira aula de estrutura de dados",
+          video: "https://www.youtube.com/watch?v=Qmt0QwzEmh0"
+        },
+        {
+          id: 2,
+          title: "Segunda aula de estrutura de dados",
+          video: "https://www.youtube.com/watch?v=2USMAwcRWHE",
+        },
       ]
     }
   ],

@@ -16,7 +16,7 @@ export default function Navbar() {
   }
 
   return (
-    <div className="bg-[#1A1820] w-[27%] border-r border-[#2D2938] min-h-[100vh] flex flex-col">
+    <div className="bg-[#1A1820] min-w-[27%] border-r border-[#2D2938] min-h-[100vh] flex flex-col float-left">
       <div className="w-full h-35 border-b border-[#2D2938] flex justify-start items-center">
         <img src="https://pngimg.com/d/copyright_PNG41.png" className="w-18 h-18 ml-11 mr-7" />
         <div className="text-white text-3xl font-bold leading-tight tracking-[-0.015em]">QuantumLeap</div>
